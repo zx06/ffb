@@ -1,0 +1,19 @@
+{
+  "name": "ffb",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.16"
+  },
+  "devDependencies": {
+    "@lljj/vue-json-schema-form": "^1.13.0",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "naive-ui": "^2.30.8",
+    "vfonts": "^0.0.3",
+    "vite": "^2.6.4"
+  }
+}
